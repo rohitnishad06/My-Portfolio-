@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Vingo – Food Delivery Web App',
-    period: 'october 2025 - Present',
+    period: 'December 2025 - Present',
     bullets: [
       'Built a full-stack food delivery app like Zomato with real-time order tracking and secure payments',
       'Developed role-based dashboards for users, delivery partners, and restaurant owners.',
@@ -11,6 +11,19 @@ export const projects = [
       demo: null,
     },
     tags: ['React js','Node js', 'Express js', 'mongoDB', 'Socket.io', 'Tailwind CSS'],
+  },
+    {
+    title: 'AI Resume Builder Web App',
+    period: 'Novenmber 2025 - Novenmber 2025',
+    bullets: [
+      'Developed a web app that allows users to create, edit, and download professional resumes using customizable templates.',
+      ' Implement user authentication and real-time data saving to enhance usability and performance.',
+    ],
+    links: {
+      code: 'https://github.com/rohitnishad06/Ai-Resume-builder',
+      demo: 'https://ai-resume-builder-frontend-ko76.onrender.com',
+    },
+    tags: ['React js','Node js', 'Express js', 'mongoDB', 'Tailwind CSS', 'Gemini'],
   },
   {
     title: 'Real Time Chat App',
@@ -34,7 +47,7 @@ export const projects = [
       'Implemented secure authentication and responsive dashboards for doctors, patients and admin.',
     ],
     links: {
-      code: null,
+      code: 'https://github.com/rohitnishad06/HealthNexus',
       demo: null,
     },
     tags: ['React js', 'Node js', 'Express js', 'mongoDB', 'Bootstrap'],
@@ -47,7 +60,7 @@ export const projects = [
       'Enables users to upload, share, and download files with unique links.',
     ],
     links: {
-      code: null,
+      code: 'https://github.com/rohitnishad06/File-Sharing-web-app',
       demo: null,
     },
     tags: ['React js', 'Node js', 'Express js', 'mongoDB', 'CSS'],
@@ -75,7 +88,7 @@ export const projects = [
               "Showcased dynamic content with descriptions, images, and travel tips.",
     ],
     links: {
-      code: null,
+      code: 'https://github.com/rohitnishad06/Tour-and-Travel-using-react',
       demo: null,
     },
     tags: ['React js', 'CSS'],

@@ -21,6 +21,12 @@ const Education = () => {
             <p className="text-xs text-muted-foreground mt-1">2022</p>
             <p className="mt-2"><strong>Percentage :</strong> 75.6 %</p>
           </div>
+          <div className="rounded-md border border-border bg-card p-5 shadow-sm">
+            <h3 className="text-lg font-semibold">HighSchool</h3>
+            <h4 className="text-sm text-muted-foreground">Saraswati Vidya Mandir Inter College, Hamirpur</h4>
+            <p className="text-xs text-muted-foreground mt-1">2020</p>
+            <p className="mt-2"><strong>Percentage :</strong> 80 %</p>
+          </div>
         </div>
       </div>
     </section>

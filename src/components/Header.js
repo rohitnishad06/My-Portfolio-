@@ -114,7 +114,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                  href="https://drive.google.com/uc?export=download&id=1BN1mZx2ZVew4HRcLG-DUwc_5_eoY_D3D"
+                  href="https://drive.google.com/file/d/1Bpy7fWOX11qRY_f4Ox7gMACgHzvq4CZc/view?usp=sharing"
                   download="Rohit-Resume.pdf"
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
@@ -206,7 +206,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/uc?export=download&id=1BN1mZx2ZVew4HRcLG-DUwc_5_eoY_D3D"
+                  href="https://drive.google.com/file/d/1Bpy7fWOX11qRY_f4Ox7gMACgHzvq4CZc/view?usp=sharing"
                   download="Rohit-Resume.pdf"
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >

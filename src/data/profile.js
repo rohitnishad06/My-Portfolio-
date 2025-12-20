@@ -2,7 +2,7 @@
 
   export const profile = {
     name: "Rohit",
-    titles: ["Software Engineer", "Full Stack Developer"],
+    titles: ["Software Engineer", "Full Stack Developer", "Problem Solver"],
     bio: [
       "I am passionate about Data Structures & Algorithms and Web Development, with a strong interest in solving coding challenges and continuously learning new technologies.",
       "Currently, I am exploring Full-Stack Web Development and eager to apply my knowledge to real-world projects.",
