@@ -7,7 +7,7 @@ export const projects = [
       'Developed role-based dashboards for users, delivery partners, and restaurant owners.',
     ],
     links: {
-      code: null,
+      code: 'https://github.com/rohitnishad06/Vingo---Food-Delivery-Website.git',
       demo: null,
     },
     tags: ['React js','Node js', 'Express js', 'mongoDB', 'Socket.io', 'Tailwind CSS'],
@@ -64,20 +64,6 @@ export const projects = [
       demo: null,
     },
     tags: ['React js', 'Node js', 'Express js', 'mongoDB', 'CSS'],
-  },
-  {
-    title: 'CRUD Application',
-    period: 'April 2024 - April 2024',
-    bullets: [
-              "Developed a full-stack CRUD app using React.js, Node.js, and MongoDB.",
-              "Enabled create, read, update, and delete operations with smooth UI/UX.",
-              "Implemented RESTful APIs for efficient backend communication.",
-    ],
-    links: {
-      code: null,
-      demo: null,
-    },
-    tags: ['React js', 'Node js', 'Express js', 'mongoDB', 'Material Ui'],
   },
   {
     title: 'Tour & Travel Website',

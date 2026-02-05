@@ -65,20 +65,7 @@ const Certifications = () => {
 
           </div>
 
-          {/* Ai Azure Certification */}
-          {/* Item 4 */}
-          <div>
-            {/* Front Side */}
-            <div className="rounded-md border border-border bg-card p-6 shadow-sm cursor-pointer">
-              <VscAzure  size={40} className="mx-auto mb-3 text-[#FF9900]" />
-              <h3 className="text-lg font-semibold">Ai Azure Intern</h3>
-              <p className="text-sm text-muted-foreground">Issued By: Edunet Foundation & Microsoft</p>
-              <p className="text-sm text-muted-foreground">May 2025 - June 2025</p>
-              <a href="https://www.credly.com/badges/ec72467a-91a3-4a89-9551-e2ad94ed9327/linked_in_profile" target="_blank" rel="noopener noreferrer" className="inline-block mt-3 text-primary font-medium">View Certificate</a>
-            </div>
-
-
-          </div>
+         
 
           {/* MERN Stack  Certification */}
           {/* Item 5 */}
