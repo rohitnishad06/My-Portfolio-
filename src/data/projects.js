@@ -8,9 +8,9 @@ export const projects = [
     ],
     links: {
       code: 'https://github.com/rohitnishad06/Vingo---Food-Delivery-Website.git',
-      demo: null,
+      demo: 'https://vingo-food-delivery-zqlo.onrender.com',
     },
-    tags: ['React js','Node js', 'Express js', 'mongoDB', 'Socket.io', 'Tailwind CSS'],
+    tags: ['React js','Node js', 'Express js', 'mongoDB', 'Socket.io', 'Tailwind CSS', ],
   },
     {
     title: 'AI Resume Builder Web App',
