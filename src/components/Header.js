@@ -114,7 +114,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                  href="https://drive.google.com/file/d/1i7YMJUN9YgAbh1V3ohDOQy9C4dV-KcQA/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1tf6Q6M-SbDAx2Fk--sd5FxCCOu-7NrHc/view?usp=sharing"
                   download="Rohit-Resume.pdf"
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >
@@ -206,7 +206,7 @@ const Header = () => {
               </li>
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1i7YMJUN9YgAbh1V3ohDOQy9C4dV-KcQA/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1tf6Q6M-SbDAx2Fk--sd5FxCCOu-7NrHc/view?usp=sharing"
                   download="Rohit Resume.pdf"
                   className="inline-flex h-9 items-center rounded-md border border-border px-3 text-sm hover:bg-accent hover:text-accent-foreground transition-colors"
                 >

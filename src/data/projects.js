@@ -1,14 +1,14 @@
 export const projects = [
   {
-    title: 'Vingo – Food Delivery Web App',
-    period: 'December 2025 - Present',
+    title: 'Petoo Adda – Food Delivery Web App',
+    period: 'December 2025 - February',
     bullets: [
       'Built a full-stack food delivery app like Zomato with real-time order tracking and secure payments',
       'Developed role-based dashboards for users, delivery partners, and restaurant owners.',
     ],
     links: {
       code: 'https://github.com/rohitnishad06/Vingo---Food-Delivery-Website.git',
-      demo: 'https://vingo-food-delivery-zqlo.onrender.com',
+      demo: 'https://petoo-adda-food-delivery.onrender.com',
     },
     tags: ['React js','Node js', 'Express js', 'mongoDB', 'Socket.io', 'Tailwind CSS', ],
   },
